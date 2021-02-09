@@ -2,6 +2,9 @@ payload:
   # > PROXY-SELECT
   - DOMAIN-KEYWORD,www.google.
   
+  #ACL4SSR
+  - DOMAIN-SUFFIX,suo.yt
+  
   # > 云蓝加速
   - DOMAIN-SUFFIX,yun.blue
   - DOMAIN-KEYWORD,artherstore
