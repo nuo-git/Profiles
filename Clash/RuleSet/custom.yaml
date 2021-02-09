@@ -2,10 +2,22 @@ payload:
   # > PROXY-SELECT
   - DOMAIN-KEYWORD,www.google.
   
+  # > 云蓝加速
+  - DOMAIN-SUFFIX,yun.blue
+  - DOMAIN-KEYWORD,artherstore
+  
+  # > Scrssr
   - DOMAIN-KEYWORD,scrssr
   - DOMAIN-SUFFIX,sub.syhwdz.top
+  
+  # > 网抑云
   - DOMAIN-SUFFIX,netyi.cloud
+  
+  # > 光速云
   - DOMAIN-SUFFIX,gs1024.com
+  
+  # > P++ 加速
   - DOMAIN-SUFFIX,pjj.one
-  - DOMAIN-SUFFIX,yun.blue
+  
+  # > 饭饭云
   - DOMAIN-SUFFIX,fanfanyun.xyz
