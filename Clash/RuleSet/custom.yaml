@@ -2,10 +2,6 @@ payload:
   # > PROXY-SELECT
   - DOMAIN-KEYWORD,www.google.
   
-  #rules-providers
-  - DOMAIN-SUFFIX,cdn.jsdelivr.net
-  - DOMAIN-SUFFIX,raw.ev2.workers.dev
-  
   #ACL4SSR
   - DOMAIN-SUFFIX,suo.yt
   - DOMAIN-SUFFIX,subcon.dlj.tf
