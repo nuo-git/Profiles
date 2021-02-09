@@ -4,6 +4,7 @@ payload:
   
   #ACL4SSR
   - DOMAIN-SUFFIX,suo.yt
+  - DOMAIN-SUFFIX,subcon.dlj.tf
   
   #云网互联
   - DOMAIN-SUFFIX,www.cni.lol
