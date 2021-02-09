@@ -5,6 +5,10 @@ payload:
   #ACL4SSR
   - DOMAIN-SUFFIX,suo.yt
   
+  #云网互联
+  - DOMAIN-SUFFIX,www.cni.lol
+  - DOMAIN-SUFFIX,v2ky.com
+  
   #McatCloud
   - DOMAIN-SUFFIX,mclou.ga
   - DOMAIN-SUFFIX,foly.xyz
