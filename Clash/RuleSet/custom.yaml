@@ -5,6 +5,11 @@ payload:
   #ACL4SSR
   - DOMAIN-SUFFIX,suo.yt
   
+  #McatCloud
+  - DOMAIN-SUFFIX,mclou.ga
+  - DOMAIN-KEYWORD,foly.xyz
+  
+  
   # > 云蓝加速
   - DOMAIN-SUFFIX,yun.blue
   - DOMAIN-KEYWORD,artherstore
