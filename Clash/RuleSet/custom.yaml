@@ -1,5 +1,7 @@
 payload:
-  # > Google Search
+  # > PROXY-SELECT
+  - DOMAIN-KEYWORD,www.google.
+  
   - DOMAIN-KEYWORD,scrssr
   - DOMAIN-SUFFIX,sub.syhwdz.top
   - DOMAIN-SUFFIX,netyi.cloud
