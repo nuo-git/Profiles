@@ -1,5 +1,10 @@
 payload:
+  # RULE-SET,costom,🔰 节点选择
   # > PROXY-SELECT
+  #speed-test
+  - DOMAIN-KEYWORD,fast.com
+  
+  #google search
   - DOMAIN-KEYWORD,www.google.
   
   #ACL4SSR
