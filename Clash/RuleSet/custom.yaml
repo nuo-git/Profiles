@@ -32,3 +32,5 @@ payload:
   - DOMAIN-SUFFIX,pjj.one
   # > 饭饭云
   - DOMAIN-SUFFIX,fanfanyun.xyz
+  # > 猫云
+  - DOMAIN-SUFFIX,catcloud.cc
