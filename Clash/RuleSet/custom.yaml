@@ -12,6 +12,10 @@ payload:
   - DOMAIN-SUFFIX,subcon.dlj.tf
   
   #机场
+  # >Paredisi
+  - DOMAIN-SUFFIX,paradisi.ml
+  # >Symerit 世长网络
+  - DOMAIN-SUFFIX,symerit.org
   # > 云网互联
   - DOMAIN-SUFFIX,www.cni.lol
   - DOMAIN-SUFFIX,v2ky.com
