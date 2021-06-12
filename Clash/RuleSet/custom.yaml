@@ -21,7 +21,7 @@ payload:
   #机场
   # >pjj
   - DOMAIN-KEYWORD,pjj
-  - DDOMAIN-SUFFIX,pjj.life
+  - DOMAIN-SUFFIX,pjj.life
   - DOMAIN-SUFFIX,pjj.one
   # >Paredisi
   - DOMAIN-SUFFIX,paradisi.ml
