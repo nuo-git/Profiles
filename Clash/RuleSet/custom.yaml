@@ -1,5 +1,8 @@
 payload:
   # RULE-SET,costom,🔰 节点选择
+
+
+  # RULE-SET,costom,🔰 节点选择
   # > PROXY-SELECT
   #speed-test
   - DOMAIN-KEYWORD,fast.com
@@ -11,6 +14,9 @@ payload:
   #ACL4SSR
   - DOMAIN-SUFFIX,suo.yt
   - DOMAIN-SUFFIX,subcon.dlj.tf
+  
+  #PotPlayer
+  - DOMAIN-KEYWORD,daumcdn
   
   #机场
   # >Paredisi
