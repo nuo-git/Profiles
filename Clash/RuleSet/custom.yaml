@@ -1,8 +1,5 @@
 payload:
   # RULE-SET,costom,🔰 节点选择
-
-
-  # RULE-SET,costom,🔰 节点选择
   # > PROXY-SELECT
   #speed-test
   - DOMAIN-KEYWORD,fast.com
