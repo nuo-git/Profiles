@@ -1,0 +1,5 @@
+payload:
+  # RULE-SET,T,🔰 节点选
+  
+  #www.loadbt.com
+  - DOMAIN-SUFFIX,loadbt.com
