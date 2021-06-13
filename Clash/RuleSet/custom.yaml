@@ -8,8 +8,11 @@ payload:
   #google search
   - DOMAIN-KEYWORD,www.google.
   
-  #google search
+  #outlook
   - DOMAIN-SUFFIX,outlook.live.com
+  
+  #www.loadbt.com
+  - DOMAIN-SUFFIX,loadbt.com
   
   #ACL4SSR
   - DOMAIN-SUFFIX,suo.yt
