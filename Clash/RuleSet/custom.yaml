@@ -8,6 +8,9 @@ payload:
   #google search
   - DOMAIN-KEYWORD,www.google.
   
+  #google search
+  - DOMAIN-SUFFIX,outlook.live.com
+  
   #ACL4SSR
   - DOMAIN-SUFFIX,suo.yt
   - DOMAIN-SUFFIX,subcon.dlj.tf
