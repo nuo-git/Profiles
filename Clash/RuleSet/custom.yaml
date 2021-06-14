@@ -19,6 +19,9 @@ payload:
   - DOMAIN-KEYWORD,daumcdn
   
   #机场
+   # >蚁链
+  - DOMAIN-SUFFIX,antlink.cc
+  
   # >pjj
   - DOMAIN-KEYWORD,pjj
   - DOMAIN-SUFFIX,pjj.life
