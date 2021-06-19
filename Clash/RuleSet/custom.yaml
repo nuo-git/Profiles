@@ -21,6 +21,8 @@ payload:
   #机场
   # >liuns.com
   - DOMAIN-SUFFIX,liuns.com
+  # >liuns.com订阅
+  - DOMAIN-SUFFIX,liyunss.com
   # >蚁链
   - DOMAIN-SUFFIX,antlink.cc
   # >pjj
