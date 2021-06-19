@@ -19,6 +19,8 @@ payload:
   - DOMAIN-KEYWORD,daumcdn
   
   #机场
+  # >liuns.com
+  - DOMAIN-SUFFIX,liuns.com
   # >蚁链
   - DOMAIN-SUFFIX,antlink.cc
   # >pjj
