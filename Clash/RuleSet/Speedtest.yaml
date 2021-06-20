@@ -1,6 +1,6 @@
 payload:
   # RULE-SET
   #speed-test
-  - DOMAIN--SUFFIX,fast.com
-  - DOMAIN--SUFFIX,speedtest.net
-  - DOMAIN--SUFFIX,nflxvideo.net
+  - DOMAIN-SUFFIX,fast.com
+  - DOMAIN-SUFFIX,speedtest.net
+  - DOMAIN-SUFFIX,nflxvideo.net
