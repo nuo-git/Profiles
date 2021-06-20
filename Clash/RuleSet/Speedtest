@@ -1,6 +1,5 @@
 payload:
-  # RULE-SET,
-  
+  # RULE-SET
   #speed-test
   - DOMAIN-KEYWORD,fast.com
   - DOMAIN-KEYWORD,speedtest.net
